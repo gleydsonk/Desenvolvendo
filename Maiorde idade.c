@@ -8,7 +8,10 @@ int main (){
 
     if(idade >= 18){
         printf("Voce e maior de idade\n");
-        printf("Dentro IF\n");
+      
+    }else{
+        printf("Voce e menor idade\n");
+
     }
-         printf("Fara IF\n");
+        
 }
