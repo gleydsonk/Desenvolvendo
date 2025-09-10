@@ -8,7 +8,7 @@ int main(){
 
         if(i % 2 != 0)
         {
-          printf("O numero %d e par!\n", i);
+          printf("O numero %d e impa!\n", i);
         }
 
         i++;
