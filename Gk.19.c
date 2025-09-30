@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-    int matriz[3][3] = {{1, 2, 3},.{4, 5, 6}, {7, 8, 9}};
+    int matriz[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
     int target = 5;
     int found = 0;
     // Busca condicional do elemento alvo
